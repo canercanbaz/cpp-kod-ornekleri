@@ -1,5 +1,7 @@
 #include <iostream>
+
 using namespace std;
+
 int main()
 {
    setlocale(LC_ALL,"Turkish"); // Türkçe karakter sorununu düzeltmek için
